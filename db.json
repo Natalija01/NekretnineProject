@@ -1,0 +1,125 @@
+{
+   "events": [
+      {
+         "AuxID": "5006",
+         "VrstaNekretnine": "Stan",
+         "TipOglasa": "Prodaja",
+         "Status": "Aktivan",
+         "Valuta": "EUR",
+         "Cena": "143900",
+         "Slika": [
+            "http://www.imperija.co.me/slike/becici-plac_1570605380931.jpg",
+            "http://www.imperija.co.me/slike/becici-plac_1570605382040.jpg",
+            "http://www.imperija.co.me/slike/becici-plac_1570605383558.jpg",
+            "http://www.imperija.co.me/slike/becici-plac_1570605387839.jpg",
+            "http://www.imperija.co.me/slike/becici-plac_1570605388505.jpg",
+            "http://www.imperija.co.me/slike/becici-plac_1570605389166.jpg"
+         ],
+         "Grad": "Budva",
+         "DeoGrada": "Bečići",
+         "Država": "Crna Gora",
+         "Ukupnapovršina": "88",
+         "Opis": "Ekskluzivno Kompleks zgrada u Becicima. Prodaje se stan povrsine 88m2. Stan ima dve spavace sobe. Sprat 0  Cena: 143 900e"
+      },
+      {
+         "AuxID": "50007",
+         "VrstaNekretnine": "Plac",
+         "TipOglasa": "Prodaja",
+         "Status": "Aktivan",
+         "Valuta": "EUR",
+         "Cena": "20",
+         "Slika": [
+            "http://www.imperija.co.me/slike/cetinje-plac_1561636729557.jpg",
+            "http://www.imperija.co.me/slike/cetinje-plac_1561636730453.jpg",
+            "http://www.imperija.co.me/slike/cetinje-plac_1561636731179.jpg",
+            "http://www.imperija.co.me/slike/cetinje-plac_1561636731987.jpg",
+            "http://www.imperija.co.me/slike/cetinje-plac_1561636732782.jpg",
+            "http://www.imperija.co.me/slike/cetinje-plac_1561636733804.jpg"
+         ],
+         "Grad": "Cetinje",
+         "DeoGrada": "Cetinje",
+         "Država": "Crna Gora",
+         "Ukupnapovršina": "1865",
+         "Opis": []
+      },
+      {
+         "AuxID": "50006",
+         "VrstaNekretnine": "Stan",
+         "TipOglasa": "Prodaja",
+         "Status": "Aktivan",
+         "Valuta": "EUR",
+         "Cena": "230000",
+         "Slika": [
+            "http://www.imperija.co.me/slike/kotor-stan_1561631831017.jpg",
+            "http://www.imperija.co.me/slike/kotor-stan_1561631833447.jpg",
+            "http://www.imperija.co.me/slike/kotor-stan_1561631834258.jpg",
+            "http://www.imperija.co.me/slike/kotor-stan_1561631835068.jpg",
+            "http://www.imperija.co.me/slike/kotor-stan_1561631835919.jpg",
+            "http://www.imperija.co.me/slike/kotor-stan_1561631836844.jpg"
+         ],
+         "Grad": "Kotor",
+         "DeoGrada": "Kotor",
+         "Država": "Crna Gora",
+         "Ukupnapovršina": "73",
+         "Opis": "Prodaje se dvosoban namesteni stan u Kotoru velicine 73m2. Stan je na III spratu, potkrovlje.  Stan se nalazi u Starom Gradu kod Crkve Svete Ozane.   Moze i kompezacija za manji stan uz doplatu."
+      },
+      {
+         "AuxID": "40486",
+         "VrstaNekretnine": "Kuća",
+         "TipOglasa": "Prodaja",
+         "Status": "Aktivan",
+         "Valuta": "EUR",
+         "Cena": "250000",
+         "Slika": [
+            "http://www.imperija.co.me/slike/muo-kuca_1557469220416.jpg",
+            "http://www.imperija.co.me/slike/muo-kuca_1557469222052.jpg",
+            "http://www.imperija.co.me/slike/muo-kuca_1557469222792.jpg",
+            "http://www.imperija.co.me/slike/muo-kuca_1557469223543.jpg",
+            "http://www.imperija.co.me/slike/muo-kuca_1557469224308.jpg",
+            "http://www.imperija.co.me/slike/muo-kuca_1557469225501.jpg"
+         ],
+         "Grad": "Kotor",
+         "DeoGrada": "Muo",
+         "Država": "Crna Gora",
+         "Ukupnapovršina": "147",
+         "Opis": "Na prodaju kuca u Kotoru, blizu opste bolnice i mupa. Kuca ima 147m2 pomocni objekat, garaza, u donjem delu garaze 30m2 i ploca nad garazom 30m2. Kuca- 3 spavace sobe, dnevni boravak, kuhinja, trpezarija, 2 kupatila, oko cele kuce terasa sa divnim pogledom na Zaliv i na Stari Grad, pogled iz svih prostorija takodje. Uz kucu ima i garsonjera, poseban ulaz. Sve je novo, kuca je gradjena 2006 godine. Kuca je udaljena 100m od mora, namestena je (moze i prazna). Ima i internet i kablovsku. 15 minuta peske do Starog Grada, uknjizeno.  Cena: 250 000e"
+      },
+      {
+         "AuxID": "30686",
+         "VrstaNekretnine": "Plac",
+         "TipOglasa": "Prodaja",
+         "Status": "Aktivan",
+         "Valuta": "EUR",
+         "Cena": "117600",
+         "Slika": [
+            "http://www.imperija.co.me/slike/prijevor-plac_1556954814944.jpg",
+            "http://www.imperija.co.me/slike/prijevor-plac_1556954817274.jpg",
+            "http://www.imperija.co.me/slike/prijevor-plac_1556954820163.jpg"
+         ],
+         "Grad": "Budva",
+         "DeoGrada": "Prijevor",
+         "Država": "Crna Gora",
+         "Ukupnapovršina": "1400",
+         "Opis": "Prodaje se plac u Budvi, Prijevor II. Plac je povrsine 1400m2. Do placa je put asfaltiran. Uvedena struja, voda, i u blizini gradska kanalizacija. Sa leve strane ima pogled na more i Mrcevo polje tj. desno se vide obrisi Bokokotorskog zaliva. Plac ociscen od izraslog drveca i grmlja. Vlasnistvo 1/1  Cena: 84e/m2"
+      },
+      {
+         "AuxID": "20910",
+         "VrstaNekretnine": "Stan",
+         "TipOglasa": "Prodaja",
+         "Status": "Aktivan",
+         "Valuta": "EUR",
+         "Cena": "115500",
+         "Slika": [
+            "http://www.imperija.co.me/slike/sveti-stefan-stan_1556780198978.jpg",
+            "http://www.imperija.co.me/slike/sveti-stefan-stan_1556780201031.jpg",
+            "http://www.imperija.co.me/slike/sveti-stefan-stan_1556780203405.jpg",
+            "http://www.imperija.co.me/slike/sveti-stefan-stan_1556780205775.jpg",
+            "http://www.imperija.co.me/slike/sveti-stefan-stan_1556780207786.jpg",
+            "http://www.imperija.co.me/slike/sveti-stefan-stan_1556780209380.jpg"
+         ],
+         "Grad": "Budva",
+         "DeoGrada": "Sveti Stefan",
+         "Država": "Crna Gora",
+         "Ukupnapovršina": "43",
+         "Opis": "Prodaje se stan u prizemlju zgrade Vila Mota Saste, Sumet (iza Romanova), Sveti Stefan. Treci red od mora, stan je uknjizen, vlasnik 1/1 bez tereta i ogranicenja.  Povrsina stana je 43m2 unutra, i 40m2 terasa i basta. Stan ima zaseban ulaz, spavacu sobu, dnevnu sobu sa kuhinjskim delom, kupatilo sa tus kabinom. Terasa je prema moru, s tim stan ima pogled na more, dvoriste je ogradjeno i ima zasebnu kapiju. Okruzeno zelenilom. Ima javni parking iznad zgrade, mogucnost zakupa mesta u garazi. Do plaze samo 50m pravom linijom, do hotelske plaze 6 minuta.  Cena: 115 500e"
+      }]}
