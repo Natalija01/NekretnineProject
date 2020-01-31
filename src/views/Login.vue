@@ -1,4 +1,3 @@
-
 <template>
   <div class="login">
     <img alt="Imperija logo" src />
@@ -8,9 +7,9 @@
 
 <script>
 // @ is an alias to /src
-import LoginComponent from "@/components/LoginComponent.vue";
+import LoginComponent from '@/components/LoginComponent.vue';
 export default {
-  name: "home",
+  name: 'home',
   components: {
     LoginComponent
   },
@@ -22,7 +21,7 @@ export default {
   watch: {
     user(value) {
       if (value !== null && value !== undefined) {
-        this.$router.push("/dashboard");
+        this.$router.push('/dashboard');
       }
     }
   }

@@ -1,6 +1,9 @@
 <template>
   <div class="hello">
-    <form style="width:400px; margin: 0 auto;" v-on:submit.prevent="submitForm()">
+    <form
+      style="width:400px; margin: 0 auto;"
+      v-on:submit.prevent="submitForm()"
+    >
       <div class="form-group">
         <label for="exampleInputEmail1">Email address</label>
         <input
@@ -11,7 +14,9 @@
           :class="status($v.email)"
           v-model="$v.email.$model"
         />
-        <small class="form-text errorText" v-if="!$v.email.email">Email is in wrong format.</small>
+        <small class="form-text errorText" v-if="!$v.email.email"
+          >Email is in wrong format.</small
+        >
       </div>
       <div class="form-group">
         <label>Password</label>
@@ -33,20 +38,20 @@
   </div>
 </template>
 <script>
-import { required, minLength, email } from "vuelidate/lib/validators/";
+import { required, minLength, email } from 'vuelidate/lib/validators/';
 export default {
   data() {
     return {
-      kvLogo: "Manage",
-      password: "",
-      email: "",
+      kvLogo: 'Manage',
+      password: '',
+      email: '',
       submitBtn: false
     };
   },
-  name: "LoginComponent",
+  name: 'LoginComponent',
   methods: {
     submitForm() {
-      this.$store.dispatch("signInUser", {
+      this.$store.dispatch('signInUser', {
         email: this.email,
         password: this.password
       });

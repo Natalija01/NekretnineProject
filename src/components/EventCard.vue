@@ -8,13 +8,18 @@
           data-ride="carousel"
         >
           <div class="carousel-inner">
-            <p
-              v-if="user"
-            >Dodati neko fino dugme koje ce editovati post (*ovo se vidi samo ako je user ulogovan)</p>
+            <p v-if="user">
+              Dodati neko fino dugme koje ce editovati post (*ovo se vidi samo
+              ako je user ulogovan)
+            </p>
             <div class="carousel-item active">
               <img :src="event.Slika[0]" class="d-block w-100" alt="..." />
             </div>
-            <div class="carousel-item" v-for="slika in event.Slika" :key="slika.id">
+            <div
+              class="carousel-item"
+              v-for="slika in event.Slika"
+              :key="slika.id"
+            >
               <img :src="slika" class="d-block w-100" alt="..." />
             </div>
           </div>
@@ -40,20 +45,28 @@
         </div>
       </div>
       <div class="card-body">
-        <h5 class="card-title">{{event.VrstaNekretnine}} na PRODAJU {{event.Grad}}</h5>
-        <p class="card-text">{{event.Opis}}.</p>
+        <h5 class="card-title">
+          {{ event.VrstaNekretnine }} na PRODAJU {{ event.Grad }}
+        </h5>
+        <p class="card-text">{{ event.Opis }}.</p>
       </div>
       <ul class="list-group list-group-flush">
-        <li class="list-group-item">Sifra nekretnine : # {{event.AuxID}}</li>
-        <li class="list-group-item">Vrsta nekretnine : {{event.VrstaNekretnine}}</li>
+        <li class="list-group-item">Sifra nekretnine : # {{ event.AuxID }}</li>
         <li class="list-group-item">
-          Povrsina: {{event.Ukupnapovršina}}
+          Vrsta nekretnine : {{ event.VrstaNekretnine }}
+        </li>
+        <li class="list-group-item">
+          Povrsina: {{ event.Ukupnapovršina }}
           m
           <sup>2</sup>
         </li>
       </ul>
       <div class="card-body">
-        <a href="#" class="card-link">Cijena : {{event.Cena}} {{event.Valuta}}</a>
+        <a href="#" class="card-link"
+          >Cijena : {{ event.Cena }} {{ event.Valuta }}</a
+        >
+      </div>
+      <div class="card-body">
         <a href="#" class="card-link">Kontaktirajte nas</a>
       </div>
     </div>
@@ -78,4 +91,12 @@ export default {
 };
 </script>
 
-<style scoped></style>
+<style scoped>
+.w-100 {
+  height: 200px;
+}
+.card {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+</style>

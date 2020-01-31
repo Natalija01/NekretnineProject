@@ -8,8 +8,9 @@
 </template>
 
 <script>
-import NavBar from "@/components/navBar.vue";
-import Loading from "@/components/Common/Loading";
+import NavBar from '@/components/navBar.vue';
+import Loading from '@/components/Common/Loading';
+
 export default {
   components: {
     NavBar,
@@ -18,10 +19,9 @@ export default {
 };
 </script>
 
-
 <style>
 #app {
-  font-family: "Avenir", Helvetica, Arial, sans-serif;
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;

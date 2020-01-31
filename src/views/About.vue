@@ -57,11 +57,13 @@
         <a href="#" class="card-link">Another link</a>
       </div>
     </div>
+    <Footer></Footer>
   </div>
 </template>
 
 <script>
 export default {
+  components: {},
   props: {
     nekretnina: Object
   }

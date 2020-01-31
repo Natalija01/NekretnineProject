@@ -18,22 +18,22 @@
 </template>
 
 <script>
-import VueGallery from "vue-gallery";
+import VueGallery from 'vue-gallery';
 
 export default {
   data: function() {
     return {
       images: [
-        "http://realestate360.me/imperijaImg/Project1/img1.PNG",
-        "http://realestate360.me/imperijaImg/Project1/Capture.PNG",
-        "http://realestate360.me/imperijaImg/Project1/Capture1.PNG",
-        "http://realestate360.me/imperijaImg/Project1/Capture3.PNG",
-        "http://realestate360.me/imperijaImg/Project1/Captur4.PNG",
-        "http://realestate360.me/imperijaImg/Project1/Capture5.PNG",
-        "http://realestate360.me/imperijaImg/Project1/Capture6.PNG",
-        "http://realestate360.me/imperijaImg/Project1/Capture7.PNG",
-        "http://realestate360.me/imperijaImg/Project1/Capture9.PNG",
-        "http://realestate360.me/imperijaImg/Project1/Capture11.PNG"
+        'http://realestate360.me/imperijaImg/Project1/img1.PNG',
+        'http://realestate360.me/imperijaImg/Project1/Capture.PNG',
+        'http://realestate360.me/imperijaImg/Project1/Capture1.PNG',
+        'http://realestate360.me/imperijaImg/Project1/Capture3.PNG',
+        'http://realestate360.me/imperijaImg/Project1/Captur4.PNG',
+        'http://realestate360.me/imperijaImg/Project1/Capture5.PNG',
+        'http://realestate360.me/imperijaImg/Project1/Capture6.PNG',
+        'http://realestate360.me/imperijaImg/Project1/Capture7.PNG',
+        'http://realestate360.me/imperijaImg/Project1/Capture9.PNG',
+        'http://realestate360.me/imperijaImg/Project1/Capture11.PNG'
       ],
       index: null
     };

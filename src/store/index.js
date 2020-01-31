@@ -5,5 +5,5 @@ import modules from './modules';
 Vue.use(Vuex);
 
 export const store = new Vuex.Store({
-	modules // Equivalent to => modules : modules(imported)
+  modules // Equivalent to => modules : modules(imported)
 });

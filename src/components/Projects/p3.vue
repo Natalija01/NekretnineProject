@@ -17,15 +17,15 @@
 </template>
 
 <script>
-import VueGallery from "vue-gallery";
+import VueGallery from 'vue-gallery';
 
 export default {
   data: function() {
     return {
       images: [
-        "http://realestate360.me/imperijaImg/Project3/Capture.PNG",
-        "http://realestate360.me/imperijaImg/Project3/Capture1.PNG",
-        "http://realestate360.me/imperijaImg/Project3/Capture2.PNG"
+        'http://realestate360.me/imperijaImg/Project3/Capture.PNG',
+        'http://realestate360.me/imperijaImg/Project3/Capture1.PNG',
+        'http://realestate360.me/imperijaImg/Project3/Capture2.PNG'
       ],
       index: null
     };
